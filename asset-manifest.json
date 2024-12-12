@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eventick/static/css/main.897376a7.css",
+    "main.js": "/eventick/static/js/main.1592d76f.js",
+    "index.html": "/eventick/index.html",
+    "main.897376a7.css.map": "/eventick/static/css/main.897376a7.css.map",
+    "main.1592d76f.js.map": "/eventick/static/js/main.1592d76f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.897376a7.css",
+    "static/js/main.1592d76f.js"
+  ]
+}
