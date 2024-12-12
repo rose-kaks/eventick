@@ -1,4 +1,38 @@
-# Getting Started with Create React App
+# Eventick- A dynamic event calendar website
+
+This project is an effort to build a website to keep track of events\
+and build your own personalized calendar!
+
+The deployed link can be found at https://rose-kaks.github.io/eventick/
+
+## Features coupled with the site 
+
+Using the project, one can avail these services:
+
+### `Calendar view of all months`
+
+A grid-like display of all months organized by week\
+with 'prev' and 'next' buttons to ease navigation.\
+![blue- current date; green- selected date](image.png)
+
+### `Add/Delete/Display Events`
+
+After selecting a date, the sidebar displays the corresponding events\
+with an option to add them, with name/timings/description.\
+One can also, delete them and edit each of their details.\
+![can add multiple events](image-1.png)
+
+### `Manage Overlapping Events`
+
+If any 2 events fall during the same time (even by 1 minute)\
+then, an alert is shown and a deletion or re-edit is prompted.\
+A series of following steps can be taken:\
+![overlapping events' alert](image-2.png)
+![delete unwanted event](image-3.png)
+![add desired event after eliminating overlap](image-4.png)
+
+
+# Getting Started with Create React App (run on your localhost)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
